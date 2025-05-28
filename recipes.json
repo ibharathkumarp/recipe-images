@@ -4,7 +4,7 @@
       "cuisine": "Italian",
       "name": "Spaghetti Carbonara",
       "photo_url_large": "https://github.com/ibharathkumarp/recipe-images/blob/main/Pasta-Carbonara-Recipe.jpg?raw=true",
-      "photo_url_small": "https://www.lovefoodies.com/wp-content/uploads/2017/03/Classic-Italian-Spaghetti-Carbonara.jpg",
+      "photo_url_small": "https://github.com/ibharathkumarp/recipe-images/blob/main/Pasta-Carbonara-Recipe.jpg?raw=true",
       "uuid": "11111111-1111-1111-1111-111111111111",
       "source_url": "https://www.simplyrecipes.com/recipes/spaghetti_alla_carbonara/",
       "youtube_url": "https://www.youtube.com/watch?v=3AAdKl1UYZs"
@@ -13,7 +13,7 @@
       "cuisine": "Japanese",
       "name": "Sushi Platter",
       "photo_url_large": "https://github.com/ibharathkumarp/recipe-images/blob/main/sushi.jpg?raw=true",
-      "photo_url_small": "https://theherdsman.com.au/wp-content/uploads/2018/10/large-60-pcs-sushi-platter.jpg",
+      "photo_url_small": "https://github.com/ibharathkumarp/recipe-images/blob/main/sushi.jpg?raw=true",
       "uuid": "22222222-2222-2222-2222-222222222222",
       "source_url": "https://theherdsman.com.au/shop/large-60-pcs-sushi-platter/",
       "youtube_url": "https://www.youtube.com/watch?v=51Mm1CMqKh0"
@@ -22,7 +22,7 @@
       "cuisine": "Mexican",
       "name": "Tacos al Pastor",
       "photo_url_large": "https://github.com/ibharathkumarp/recipe-images/blob/main/Tacoc.jpg?raw=true",
-      "photo_url_small": "https://grillinwithdad.com/wp-content/uploads/2019/09/al-pastor-tacos.jpg",
+      "photo_url_small": "https://github.com/ibharathkumarp/recipe-images/blob/main/Tacoc.jpg?raw=true",
       "uuid": "33333333-3333-3333-3333-333333333333",
       "source_url": "https://www.seriouseats.com/tacos-al-pastor-recipe",
       "youtube_url": "https://www.youtube.com/watch?v=1L3k0Z5b3Rj8"
